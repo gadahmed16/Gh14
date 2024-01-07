@@ -146,5 +146,6 @@ casual_cards.real_c_price3.style.display="none";
 // facebtn.onclick = function () {
 //     location.assign('https://www.facebook.com/profile.php?id=100050276316996&mibextid=ZbWKwL');
 //     this.open("https://www.facebook.com/profile.php?id=100050276316996&mibextid=ZbWKwL")
-    
+    3alaoy hapip kalpu
+
 // }
